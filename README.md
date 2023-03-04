@@ -1,0 +1,2 @@
+# subdomains.txt
+ some subdomains
